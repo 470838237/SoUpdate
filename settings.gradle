@@ -1,0 +1,2 @@
+include ':updateso', ':myapplication'
+rootProject.name='soupdate'
